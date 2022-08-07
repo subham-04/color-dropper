@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Josefin+Slab&display=swap');
+
+body{
+    background: #303030;
+    text-transform: capitalize;
+    font-size: 1rem;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    color: #16e0bd;
+
+
+}
+h2{
+    font-weight:bolder;
+    font-family: 'Josefin Sans', sans-serif !important;
+    margin-bottom: 3rem;
+}
+.wrapper{
+    padding: 1rem;
+    width: 20rem;
+    text-align: center;
+}
+.changeColorBtn{
+    font-family:  sans-serif ;
+    text-transform: uppercase;
+    font-size: 0.91rem;
+    height: 4.123rem;
+    width: 4.123rem;
+    padding: 0.25rem;
+    outline: none;
+    border: none;
+    border-radius: 50%;
+    background: #16e0bd;
+    cursor: pointer;
+}
+.colorGrid{
+    display: inline-block;
+    height: 1.592rem;
+    width: 1.592rem;
+    border-radius: 0.2rem;
+}
+
+.selectedColor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    
+}
+
+.colorValue{
+  color: #ffff;
+    margin-left: 1rem;
+    font-weight: bold;
+}
+.creator{
+    text-transform: uppercase;
+  }
+  ul{
+    margin: 1rem 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  footer{
+    color: #ffff;
+
+    font-size: 0.91rem;
+  }
+  .social{
+    padding-inline: 8px;
+    text-decoration: none;
+    
+  }
+  i{
+    font-size: 1rem;
+  }
+  .social-link{
+    transition-duration: 0.312s;
+    color: #1ee0bd;
+    text-decoration: none;
+  }
+
+  #github:hover{
+    color: #f5f5f5;
+  }
+  #email:hover{
+    color: rgb(205,59,46);
+  }
+  #instagram:hover{
+    color: #E1306C;
+  }
+  #linkedin:hover{
+    color: #0d71c4;
+  }
+  .footer-description{
+    text-align: center;
+    font-size: 0.8rem;
+  }
