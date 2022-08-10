@@ -1,7 +1,7 @@
 # color-dropper
 
-- preview
+-Ppreview
 
 <br>
 
-![App Screenshot](https://github.com/subham-04/form-with-picture/blob/main/ad-form.png)
+![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/cld.png)
