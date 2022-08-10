@@ -1,1 +1,4 @@
 # color-dropper
+
+- preview
+
