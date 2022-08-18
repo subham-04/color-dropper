@@ -1,6 +1,6 @@
 # color-dropper
 
--Ppreview
+-Preview
 
 <br>
 
