@@ -10,6 +10,10 @@
 
 ## Microsoft Edge Addon
 
-<br>
 
 Currently available on Microsoft Edge
+
+<br>
+
+
+Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohmchojgngnpldlefegdfodbam
