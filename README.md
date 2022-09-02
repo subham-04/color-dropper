@@ -6,7 +6,7 @@
 
 <br>
 
-![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/cld.png)
+![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/cld%20(2).png)
 
 ## Microsoft Edge Addon
 
