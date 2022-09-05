@@ -41,4 +41,4 @@ Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohm
 
 ![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/4.PNG)
 
-![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/5.PNG)
+![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/5.png)
