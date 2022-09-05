@@ -26,7 +26,7 @@ Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohm
 
 - Note
     
-    --   Version 0.0.1 is available righ now in this repository.
+    --   Version [0.0.1] is available righ now in this repository.
     
     --   Extension doesn't work on Microsoft Store & Browser Home page except this it can run smoothly anywhere and anytime.
 
