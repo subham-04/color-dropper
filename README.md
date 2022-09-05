@@ -33,3 +33,7 @@ Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohm
 ## Microsoft Edge Addon
 
 
+# Screenshots
+
+![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/2.png)
+
