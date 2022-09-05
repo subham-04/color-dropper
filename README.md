@@ -30,10 +30,11 @@ Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohm
     
     --   Extension doesn't work on Microsoft Store & Browser Home page except this it can run smoothly anywhere and anytime.
 
+# Screenshots
+
 ## Microsoft Edge Addon
 
 
-# Screenshots
 
 ![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/2.png)
 
