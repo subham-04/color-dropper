@@ -30,6 +30,9 @@ Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohm
     
     --   Extension doesn't work on Microsoft Store & Browser Home page except this it can run smoothly anywhere and anytime.
     
+    
+<br>
+    
 
 ## User Guide
 
