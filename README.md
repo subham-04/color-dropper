@@ -38,6 +38,11 @@ Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohm
 
 Video link - https://subham-04.github.io/color-dropper-video/
 
+## Active Users
+
+Today [9/20/2022] Color Dropper has crossed 1000+ Active Users
+
+![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/Screenshot%202022-09-20%20003928.png)
 
 
 # Screenshots
