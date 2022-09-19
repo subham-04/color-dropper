@@ -38,7 +38,10 @@ Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohm
 
 Video link - https://subham-04.github.io/color-dropper-video/
 
+<br>
+
 ## Active Users
+
 
 Today [9/20/2022] Color Dropper has crossed 1000+ Active Users
 
@@ -47,7 +50,6 @@ Today [9/20/2022] Color Dropper has crossed 1000+ Active Users
 
 # Screenshots
 
-## Microsoft Edge Addon
 
 
 
