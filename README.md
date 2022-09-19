@@ -48,6 +48,9 @@ Today [9/20/2022] Color Dropper has crossed 1000+ Active Users
 ![App Screenshot](https://github.com/subham-04/color-dropper/blob/main/Screenshot%202022-09-20%20003928.png)
 
 
+<br>
+
+
 # Screenshots
 
 
