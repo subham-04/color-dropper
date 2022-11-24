@@ -22,7 +22,7 @@ Link - https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohm
 ## Features
 
 
-- Color dropper extension allows you to select a any color from website and copies the HEX code and saves it into your Clipboard, which you can paste anywhere you need.
+- Color dropper extension allows you to select a any color from website and copies the color code and saves it into your Clipboard, which you can paste anywhere you need.
 
 - Note
     
